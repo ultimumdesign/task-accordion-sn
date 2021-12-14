@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="tableName" label="Table" language="en" table="var__m_sys_ux_lib_component_attr_3239ccdd8552a8f37f1a539868cf67ed">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>tableName</element>
+            <help/>
+            <hint/>
+            <label>Table</label>
+            <language>en</language>
+            <name>var__m_sys_ux_lib_component_attr_3239ccdd8552a8f37f1a539868cf67ed</name>
+            <plural>Table</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-14 16:22:33</sys_created_on>
+            <sys_id>684832e71b14851061aaea84604bcb0a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Table</sys_name>
+            <sys_package display_value="@recro/task-accordion" source="x_recro_recro_ta_0">bad244711b5881d061aaea84604bcbc4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_ux_lib_component_attr_3239ccdd8552a8f37f1a539868cf67ed_tableName_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-14 16:22:33</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
