@@ -14,7 +14,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Debug Mode</column_label>
+        <column_label>Rows for Text Areas</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +27,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>debugMode</element>
+        <element>textAreaRows</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
@@ -35,7 +35,7 @@
         <help/>
         <hint/>
         <internal_type display_value="String">string</internal_type>
-        <label>Debug Mode</label>
+        <label>Rows for Text Areas</label>
         <mandatory>false</mandatory>
         <max_length>255</max_length>
         <model display_value="recro-task-accordion">3239ccdd8552a8f37f1a539868cf67ed</model>
@@ -59,16 +59,16 @@
         <staged>false</staged>
         <sys_class_name>sys_ux_lib_component_attr</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-12-21 01:35:07</sys_created_on>
-        <sys_id>e2361e700d5d001bfacffc253fc5ebf3</sys_id>
+        <sys_created_on>2021-12-21 01:35:08</sys_created_on>
+        <sys_id>24eb62adb181ab7fbd68cae97843b320</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>Debug Mode</sys_name>
+        <sys_name>Rows for Text Areas</sys_name>
         <sys_package display_value="@recro/task-accordion" source="x_recro_recro_ta_0">bad244711b5881d061aaea84604bcbc4</sys_package>
         <sys_policy/>
         <sys_scope display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</sys_scope>
-        <sys_update_name>sys_ux_lib_component_attr_e2361e700d5d001bfacffc253fc5ebf3</sys_update_name>
+        <sys_update_name>sys_ux_lib_component_attr_24eb62adb181ab7fbd68cae97843b320</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-21 01:35:07</sys_updated_on>
+        <sys_updated_on>2021-12-21 01:35:08</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
