@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_action">
+    <sys_ux_lib_component_action action="DELETE">
+        <description>Refresh requested from task accordion</description>
+        <name/>
+        <publisher display_value="recro-task-accordion">3239ccdd8552a8f37f1a539868cf67ed</publisher>
+        <sys_class_name>sys_ux_lib_component_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 03:42:01</sys_created_on>
+        <sys_id>30268e8160012c0dc38916a27bc1028f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="@recro/task-accordion" source="x_recro_recro_ta_0">bad244711b5881d061aaea84604bcbc4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</sys_scope>
+        <sys_update_name>sys_ux_lib_component_action_30268e8160012c0dc38916a27bc1028f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 03:42:01</sys_updated_on>
+    </sys_ux_lib_component_action>
+    <sys_translated_text action="DELETE" query="documentkey=30268e8160012c0dc38916a27bc1028f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</application>
+        <file_path/>
+        <instance_id>256c7c21db7c64145749cac50596193a</instance_id>
+        <instance_name>recrollcdemo2</instance_name>
+        <name>sys_ux_lib_component_action_30268e8160012c0dc38916a27bc1028f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_component_action"><sys_ux_lib_component_action action="INSERT_OR_UPDATE"><description>Refresh requested from task accordion</description><name/><publisher display_value="recro-task-accordion">3239ccdd8552a8f37f1a539868cf67ed</publisher><sys_class_name>sys_ux_lib_component_action</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-12-20 03:42:01</sys_created_on><sys_id>30268e8160012c0dc38916a27bc1028f</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="@recro/task-accordion" source="x_recro_recro_ta_0">bad244711b5881d061aaea84604bcbc4</sys_package><sys_policy/><sys_scope display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</sys_scope><sys_update_name>sys_ux_lib_component_action_30268e8160012c0dc38916a27bc1028f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-12-20 03:42:01</sys_updated_on></sys_ux_lib_component_action><sys_translated_text action="delete_multiple" query="documentkey=30268e8160012c0dc38916a27bc1028f"/></record_update>]]></payload>
+        <payload_hash>-675929462</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>776972e71b14851061aaea84604bcbee</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 03:42:01</sys_created_on>
+        <sys_id>6ab303191baccd1061aaea84604bcbd5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17dd5ee91210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 03:42:01</sys_updated_on>
+        <type>Component Action</type>
+        <update_guid>a2b303195eaccd102f9d96836289fdd5</update_guid>
+        <update_guid_history>a2b303195eaccd102f9d96836289fdd5:-675929462,fcb3071137ec015068523505d4210229:-919904447,59128f55f9accd105300f46af330b4a1:-675929462,4302c3119cec0150d61735aeeb6779ae:1744149208,8fdf3a1d41ac01507dba437d1213cddd:-675929462</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-12-20 03:52:55</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_lib_component_action">sys_ux_lib_component_action</sys_db_object>
+        <sys_id>874f566d608e4f7ba5604eae39261cb1</sys_id>
+        <sys_metadata>30268e8160012c0dc38916a27bc1028f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="@recro/task-accordion" source="x_recro_recro_ta_0">bad244711b5881d061aaea84604bcbc4</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</sys_scope>
+        <sys_scope_delete display_value="">1e7d89da70c448a898e1481ab91c0e84</sys_scope_delete>
+        <sys_update_name>sys_ux_lib_component_action_30268e8160012c0dc38916a27bc1028f</sys_update_name>
+        <sys_update_version display_value="sys_ux_lib_component_action_30268e8160012c0dc38916a27bc1028f">6ab303191baccd1061aaea84604bcbd5</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-12-20 03:52:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
