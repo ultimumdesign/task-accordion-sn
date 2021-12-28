@@ -8,7 +8,7 @@
         <macroponent display_value="Task Accordion">a3ec704a4751c9b4d9d5423455d7679b</macroponent>
         <sys_class_name>sys_uib_toolbox_component</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2021-12-22 21:49:33</sys_created_on>
+        <sys_created_on>2021-12-28 16:13:09</sys_created_on>
         <sys_id>c6b679c5d81cc82e7709bb2be0bce3ee</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Task Accordion</sys_name>
@@ -17,6 +17,6 @@
         <sys_scope display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</sys_scope>
         <sys_update_name>sys_uib_toolbox_component_c6b679c5d81cc82e7709bb2be0bce3ee</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-12-22 21:49:33</sys_updated_on>
+        <sys_updated_on>2021-12-28 16:13:09</sys_updated_on>
     </sys_uib_toolbox_component>
 </record_update>
