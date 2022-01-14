@@ -16,16 +16,16 @@
         <layout>{}</layout>
         <macroponent_dependencies/>
         <name>Task Accordion</name>
-        <props>[{"name":"data","label":"Data","readOnly":false,"defaultValue":"","description":"Data to inject into component","valueType":"string","mandatory":false},{"name":"tableName","label":"Table","readOnly":false,"defaultValue":"","description":"Name of table to pull tasks forms","valueType":"string","mandatory":false},{"name":"approverItems","label":"Approver User Items","readOnly":false,"defaultValue":"","description":"Array of user items","valueType":"string","mandatory":false},{"name":"statusItems","label":"Status Items","readOnly":false,"defaultValue":"","description":"Array of status items/choices","valueType":"string","mandatory":false},{"name":"debugMode","label":"Debug Mode","readOnly":false,"defaultValue":"","description":"Toggle for debugging","valueType":"string","mandatory":false},{"name":"textAreaRows","label":"Rows for Text Areas","readOnly":false,"defaultValue":"","description":"Set for text area row height","valueType":"string","mandatory":false}]</props>
+        <props>[{"name":"data","label":"Data","readOnly":false,"defaultValue":"","description":"Data to inject into component","valueType":"string","mandatory":false},{"name":"tableName","label":"Table","readOnly":false,"defaultValue":"","description":"Name of table to pull tasks forms","valueType":"string","mandatory":false},{"name":"statusItems","label":"Status Items","readOnly":false,"defaultValue":"","description":"Array of status items/choices","valueType":"string","mandatory":false},{"name":"debugMode","label":"Debug Mode","readOnly":false,"defaultValue":"","description":"Toggle for debugging","valueType":"string","mandatory":false},{"name":"textAreaRows","label":"Rows for Text Areas","readOnly":false,"defaultValue":"","description":"Set for text area row height","valueType":"string","mandatory":false}]</props>
         <required_translations>[ ]</required_translations>
         <root_component display_value="recro-task-accordion">3239ccdd8552a8f37f1a539868cf67ed</root_component>
-        <root_component_config>{"data":"@context/data","tableName":"@context/tableName","approverItems":"@context/approverItems","statusItems":"@context/statusItems","debugMode":"@context/debugMode","textAreaRows":"@context/textAreaRows"}</root_component_config>
+        <root_component_config>{"data":"@context/data","tableName":"@context/tableName","statusItems":"@context/statusItems","debugMode":"@context/debugMode","textAreaRows":"@context/textAreaRows"}</root_component_config>
         <root_component_definition/>
         <schema_version>1.0.0</schema_version>
         <state_properties/>
         <sys_class_name>sys_ux_macroponent</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-01-14 17:55:51</sys_created_on>
+        <sys_created_on>2022-01-14 18:30:30</sys_created_on>
         <sys_id>a3ec704a4751c9b4d9d5423455d7679b</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Task Accordion</sys_name>
@@ -34,6 +34,6 @@
         <sys_scope display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</sys_scope>
         <sys_update_name>sys_ux_macroponent_a3ec704a4751c9b4d9d5423455d7679b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-14 17:55:51</sys_updated_on>
+        <sys_updated_on>2022-01-14 18:30:30</sys_updated_on>
     </sys_ux_macroponent>
 </record_update>
