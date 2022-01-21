@@ -12,14 +12,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2021-12-08 20:38:55</sys_created_on>
         <sys_id>3239ccdd8552a8f37f1a539868cf67ed</sys_id>
-        <sys_mod_count>456261</sys_mod_count>
+        <sys_mod_count>0</sys_mod_count>
         <sys_name>recro-task-accordion</sys_name>
         <sys_package display_value="@recro/task-accordion" source="x_recro_recro_ta_0">bad244711b5881d061aaea84604bcbc4</sys_package>
         <sys_policy/>
         <sys_scope display_value="@recro/task-accordion">bad244711b5881d061aaea84604bcbc4</sys_scope>
         <sys_update_name>sys_ux_lib_component_3239ccdd8552a8f37f1a539868cf67ed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-01-18 20:55:58</sys_updated_on>
+        <sys_updated_on>2022-01-21 02:19:04</sys_updated_on>
         <tag>recro-task-accordion</tag>
     </sys_ux_lib_component>
 </record_update>
